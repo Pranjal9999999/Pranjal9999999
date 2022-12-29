@@ -2,7 +2,7 @@
 
 I am Pranjal Agarwal, an undergrad at Birla Institute Of Technology, Mesra pursuing my bachelors in Computer Science And Engineering . <br>
 
-- I am a former SDE intern at SAMSUNG(Prism), worked with the hashing function  used in OFDM channels, for 3D pilot symbols.
+- Former SDE intern at SAMSUNG(Prism), worked with the hashing function  used in OFDM channels, for 3D pilot symbols.
 - Want to learn to build large, distribured, scalable systems and work on realtime projects,learn the full cycle of product development from selecting the tech stack to solve the problem, designing a system, analysing, building, debugging, deploying and testing by begin directly involved in the process.
 - I believe in analysing the problem at hands carefully, quantifying the results and handling feedback constructively.
 
